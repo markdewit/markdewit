@@ -23,8 +23,6 @@ I enjoy working with both **frontend and backend** technologies, always learning
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markdewit&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markdewit&layout=compact&theme=radical)
 
 ---
