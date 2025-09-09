@@ -1,26 +1,53 @@
-# Hi there 👋, I'm mark
+# Mark De Wit
 
-Welcome to my GitHub profile!  
-I'm a **Web Developer** with a passion for building fast, user-friendly, and modern websites.  
-I enjoy working with both **frontend and backend** technologies, always learning and improving my craft. 🚀  
-
----
-
-## 🔧 Technologies & Tools
-- **Frontend:** Angular, JavaScript (ES6+), TypeScript, SCSS, TailwindCSS  
-- **Backend:** C#, ASP.NET Core, REST APIs  
-- **Database:** PostgreSQL, Entity Framework  
-- **Other:** Docker, Git, PostCSS, JWT Auth  
+Welcome to my GitHub profile.  
+I am a **Web Developer** specializing in building modern, responsive, and performance-optimized websites.  
+With several years of experience in **frontend and backend development**, I focus on writing clean, maintainable code and delivering solutions that align with business needs.  
 
 ---
 
-## 📌 What I Do
-- Build and optimize responsive web templates  
-- Maintain and support technical culture within teams  
-- Improve performance & page speed (because nobody likes slow sites ⚡)  
-- Experiment with new technologies and smart home automation 🤖  
+## 👨‍💼 About Me
+- 🎓 Completed my professional training in 2019  
+- 💻 6 years of experience in **frontend and backend development**  
+- 🌍 Based in Germany, working with international projects  
+- 🚀 Passionate about **new technologies**, performance optimization, and scalable software  
+- 🔧 Currently focused on **Angular** (standalone components, i18n) and **ASP.NET Core APIs**
 
 ---
+
+## 🛠️ Technical Skills
+
+**Frontend Development**
+- Angular (standalone components, i18n, state management)  
+- JavaScript (ES6+), TypeScript  
+- SCSS, TailwindCSS, PostCSS  
+
+**Backend Development**
+- C# / ASP.NET Core  
+- REST APIs, JWT Authentication  
+- Entity Framework (TPT mapping, Identity)  
+
+**Database**
+- PostgreSQL  
+
+**Other Tools & Practices**
+- Git / GitHub  
+- Docker  
+- Continuous integration & deployment  
+- Page speed optimization & technical SEO  
+
+---
+
+## 📌 Experience Highlights
+- Building and maintaining **scalable web applications** with Angular and .NET  
+- Designing and optimizing **frontend templates** for better UX and performance  
+- Implementing **secure authentication systems** with JWT and ASP.NET Identity  
+- Supporting technical teams by improving workflows and code quality standards  
+
+---
+## 📈 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=default&hide_border=true)
+
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markdewit&layout=compact&theme=radical)
@@ -33,4 +60,4 @@ I enjoy working with both **frontend and backend** technologies, always learning
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories or connect with me._  
+💡 *I am always open to new opportunities and collaborations in web development.*
