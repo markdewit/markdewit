@@ -28,7 +28,7 @@ I enjoy working with both **frontend and backend** technologies, always learning
 ---
 
 ## 🌍 Find Me Online
-- 💼 [LinkedIn]((https://www.linkedin.com/in/mark-de-wit-423b40293/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mark-de-wit-423b40293/)  
 - 📝 Sometimes sharing thoughts on tech & travel  
 
 ---
