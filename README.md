@@ -46,6 +46,11 @@ With several years of experience in **frontend and backend development**, I focu
 
 ---
 
+## 📈 GitHub Overview: Private Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markdewit&show_icons=true&theme=default&hide_border=true)
+
+---
+
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markdewit&layout=compact&theme=radical)
 
